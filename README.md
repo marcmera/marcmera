@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Mera</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web Development || Data Science**
 
 - 📫 How to reach me **marcmera19@gmail.com**
 
@@ -33,6 +33,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <h4>Other:</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
+<div align="center">
 <h3>Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcmera&show_icons=true&locale=en" alt="marcmera" /></p>
+</div>
