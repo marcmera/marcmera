@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marc Mera</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
+<h2 align="left">About me:</h2>
 - 🌱 I’m currently learning **Web Development || Data Science**
 
 - 📫 How to reach me **marcmera19@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
+<h4 align="left">Connect with me:</h4>
 <p>
 <a href="https://linkedin.com/in/marc mera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc mera" height="30" width="40" /></a>
 </p>
